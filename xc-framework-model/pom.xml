@@ -10,7 +10,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>com.xuecheng</groupId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
     <artifactId>xc-framework-model</artifactId>
+
 
 <dependencies>
     <dependency>
